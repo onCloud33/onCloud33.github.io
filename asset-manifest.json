@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed5ca00.chunk.css",
+    "main.js": "/static/js/main.80661a3b.chunk.js",
+    "main.js.map": "/static/js/main.80661a3b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a3fb525.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a3fb525.js.map",
+    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
+    "static/js/2.0c0e877a.chunk.js": "/static/js/2.0c0e877a.chunk.js",
+    "static/js/2.0c0e877a.chunk.js.map": "/static/js/2.0c0e877a.chunk.js.map",
+    "static/js/3.39b67107.chunk.js": "/static/js/3.39b67107.chunk.js",
+    "static/js/3.39b67107.chunk.js.map": "/static/js/3.39b67107.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.4ed5ca00.chunk.css.map": "/static/css/main.4ed5ca00.chunk.css.map",
+    "static/js/2.0c0e877a.chunk.js.LICENSE.txt": "/static/js/2.0c0e877a.chunk.js.LICENSE.txt",
+    "static/media/Project.css": "/static/media/yonkoring.96ef1425.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a3fb525.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.0c0e877a.chunk.js",
+    "static/css/main.4ed5ca00.chunk.css",
+    "static/js/main.80661a3b.chunk.js"
+  ]
+}
